@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../BuilderPattern/BuilderPattern.csproj" Id="b4c63b9b-5904-4b9b-8d58-71f7cc0c16e9" />
   <Project Path="SingletonPatternExample..csproj" />
 </Solution>
